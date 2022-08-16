@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #ffffff;
+}
+
+header{
+    height: 600px;
+    background-color: blue;
+    border-radius: 35px;
+    margin-top: 5px;
+
+}
+
+.one-img{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.head{
+    display: flex;
+}
+nav{
+    margin-top: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    
+}
+.nav-item-active{
+    text-decoration: none;
+    color: #ffffff;
+    margin-left: 300px;
+    
+}
+
+.nav-item{
+    text-decoration: none;
+    color: #ffffff; 
+   margin-left: 50px;
+}
+.btn{
+    margin-left: 100px;
+    padding: 1.2em 1.5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color: white;
+    background-color: #0048e4;
+    border-color: #0048e4;
+    font-size: medium;
+}
+
+.head-text{
+    margin-top: 40px;
+    color: white;
+    margin-left: 50px;
+}
+
+.head-text h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+
+.head-text h4{
+    font-weight: 400;
+    margin-top: 20px;
+}
+.img-two{
+    width: 40%;
+    float: right;
+    margin-top: -340px;
+    margin-right: 20px;
+}
+
+.img-three{
+    width: 40%;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.medium-text{
+    float: right;
+    margin-right: 250px;
+    font-size: 22px;
+    margin-top: -450px;
+}
+.medium-text h3{
+    margin-top: 20px;
+}
+
+.medium-text h5{
+    font-weight: 200;
+    margin-top: 10px;
+}
+
+.last h2{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.cards{
+    display: flex;
+justify-content: center;
+justify-content: space-between;
+margin-left: 150px;
+margin-right: 150px;
+margin-top: 20px;
+}
+.img-four{
+    width: 40%;
+    margin-left: 60px;
+    margin-top: 30px;
+    background-color: #eefa4a;
+    border-radius: 50%;
+}
+
+.card-one{
+    height: 220px;
+    width: 20%;
+    background-color: #ffcece;
+    border-radius: 25px;
+    box-shadow: 10%;
+}
+
+.card-one h5{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.card-one h6{
+    text-align: center;
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.card-one-one{
+    border-radius: 30px;
+    background-color: #3835eb;
+    color: white;
+}
